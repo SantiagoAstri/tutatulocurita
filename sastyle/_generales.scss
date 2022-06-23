@@ -1,0 +1,52 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    background-image: url(../imagenes/Fondoi.jpeg);
+    .titulo{
+    margin-top: 150px;
+    border-style: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../imagenes/background.png);
+
+    }
+}
+
+
+
+.navbar{
+    background-image: url(../imagenes/background.png);
+           }
+
+
+aside
+{
+    font-size: 23px;
+    font-weight: 600;
+    margin-top: 40px;
+    background-image: url(../imagenes/background.png);
+    padding: 20px;
+    border: solid;
+}
+
+
+footer
+{
+    font-size: 20px;
+    margin-top: 112px;
+    background-color: rgb(245, 160, 234);
+    display: flex;
+    justify-content: center;
+}
+
+fieldset
+{
+    margin-top: 220px;
+}
